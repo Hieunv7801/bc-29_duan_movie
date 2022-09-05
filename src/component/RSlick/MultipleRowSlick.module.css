@@ -1,0 +1,23 @@
+.slick-prev:before, .slick-next:before {
+
+    color: gray !important;
+    font-size: 3rem !important;
+}
+
+
+.width-item {
+    width: 100%  !important;
+}
+
+.active_Film {
+    background-color: rgb(14, 26, 97);
+    color: white;
+    border: solid 1px gray;
+}
+
+
+.none_active_Film {
+    color: rgb(14, 26, 97);
+    background-color: white;
+    border: solid 1px rgb(14, 26, 97);
+}
